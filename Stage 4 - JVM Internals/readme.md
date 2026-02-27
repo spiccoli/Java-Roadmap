@@ -1,8 +1,5 @@
 # Stage 4 — JVM Internals
 
-## Goal
-Master memory and performance behavior.
-
 ## JVM Architecture
 
 - Heap vs stack

@@ -1,8 +1,5 @@
 # Stage 5 — Architecture & Design
 
-## Goal
-Design maintainable, scalable systems.
-
 ## Design Mastery
 
 - SOLID principles (deep)

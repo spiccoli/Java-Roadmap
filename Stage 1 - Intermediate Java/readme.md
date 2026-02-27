@@ -1,8 +1,5 @@
 # Stage 1 — Intermediate Java
 
-## Goal
-Write clean, modern, idiomatic Java.
-
 ## Core Language
 
 - Generics (bounds, wildcards, PECS)

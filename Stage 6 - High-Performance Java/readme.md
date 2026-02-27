@@ -1,8 +1,5 @@
 # Stage 6 — High-Performance Java
 
-## Goal
-Build production-grade high-throughput systems.
-
 ## Topics
 
 - Profiling methodology

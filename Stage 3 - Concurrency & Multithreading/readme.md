@@ -1,8 +1,5 @@
 # Stage 3 — Concurrency & Multithreading
 
-## Goal
-Write correct and performant concurrent code.
-
 ## Fundamentals
 
 - Thread lifecycle

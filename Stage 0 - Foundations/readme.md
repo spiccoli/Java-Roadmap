@@ -1,8 +1,5 @@
 # Stage 0 — Java Foundations
 
-## Goal
-Become fluent with Java syntax and basic OOP.
-
 ## Topics
 
 - Primitive types and operators  

@@ -1,8 +1,5 @@
 # Stage 2 — Advanced Core Java
 
-## Goal
-Understand how Java works under the hood.
-
 ## Deep Topics
 
 - Java Memory Model (intro)

@@ -1,8 +1,5 @@
 # Stage 7 — Enterprise & Ecosystem
 
-## Goal
-Ship production-ready backend systems.
-
 ## Spring Ecosystem
 
 - Spring Boot internals
