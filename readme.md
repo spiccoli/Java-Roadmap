@@ -2,5 +2,10 @@ Roadmap for java
 
 Resources:
 
-https://www.w3schools.com/java/default.asp<br>
-https://roadmap.sh/java
+<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noopener noreferrer">
+  https://www.w3schools.com/java/default.asp
+</a>
+<br>
+<a href="https://roadmap.sh/java" target="_blank" rel="noopener noreferrer">
+  https://roadmap.sh/java
+</a>
